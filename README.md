@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jaehong Park
+# Hi 👋, I'm Jaehong Park [MBTI](https://www.16personalities.com/ko/%EA%B2%B0%EA%B3%BC/estj-a/m/hddijln6c)
 
 🎓 **Alumnus of the University of Liverpool**  
 🚀 **Frontend Developer | React Native Enthusiast**
